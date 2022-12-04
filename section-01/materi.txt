@@ -1,0 +1,10 @@
+Install extention
+- Error Lens
+- Firebase
+- Flutter
+- Flutter Instl
+- Flutter Riverpod Snippets
+
+Optional:
+- Dracula Official (theme)
+- Github Copilot 
